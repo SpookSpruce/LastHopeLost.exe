@@ -1,0 +1,2 @@
+# LastHopeLost.exe
+A deadly locker virus - RUN THIS AT YOUR OWN RISK, OWNER IS NOT RESPONSIBLE FOR THE DAMAGE DONE
