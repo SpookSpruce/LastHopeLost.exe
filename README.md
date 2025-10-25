@@ -14,7 +14,7 @@ CURRENT PHASE: 1/3 - Phase1:GUI, Phase2:Virus/Payload script, Phase3:Polish\
 Phase1 Complete!
 
 Code will be open sourced with the executables in releases once ready.\
-You can clone, modify this code and commercialize it if you want but you HAVE TO include owner's name(@SpookSpruce) and reference original name if renaming to other.
+You can clone, modify this code and commercialize it if you want but you HAVE TO include @SpookSpruce and reference original name if renaming to other.
 
 **INFORMATION**\
 The malicious code will be kept in src/com/lasthopelost/execute.java
